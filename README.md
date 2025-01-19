@@ -17,3 +17,5 @@ see wukko's tutorial using my method: https://x.com/uwukko/status/18808969934275
 if installing via .crx please just drag it into chrome://extensions
 
 if installing via source code, go to chrome://extensions, turn on developer mode, and load unpacked.
+
+## this extension is for educational purposes only.
