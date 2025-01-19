@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "TikTok Unban",
+    "version": "1337",
+    "description": "Unbans TikTok via Cookies. Please use a VPN along with it.(see wukkos tutorial https://x.com/uwukko/status/1880896993427599797) (by kaixvny on twitter)",
+    "author": "kaixvny on twitter",
+    "icons": {
+        "128": "logo/logo-128.png"
+    },
+    "permissions": [
+      "cookies",
+      "webNavigation",
+      "activeTab",
+      "tabs"
+    ],
+    "host_permissions": [
+      "https://www.tiktok.com/*"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    }
+  }
+  
