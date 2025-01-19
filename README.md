@@ -10,3 +10,10 @@ you must have non-banned VPN attached too.
 once the extension is installed (or you ever get sent back to us-landing), please go to either https://www.tiktok.com/ or https://www.tiktok.com/foryou
 
 see wukko's tutorial using my method: https://x.com/uwukko/status/1880896993427599797
+
+
+# Install
+
+if installing via .crx please just drag it into chrome://extensions
+
+if installing via source code, go to chrome://extensions, turn on developer mode, and load unpacked.
